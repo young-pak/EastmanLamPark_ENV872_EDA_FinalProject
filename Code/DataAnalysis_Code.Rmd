@@ -1,0 +1,5 @@
+```{r}
+getwd()
+dir.create("new_folder")
+```
+
